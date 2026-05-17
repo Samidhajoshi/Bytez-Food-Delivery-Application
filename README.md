@@ -37,10 +37,10 @@ Stripe (Payments)
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home](https://github.com/user-attachments/assets/76b7e5e9-2f8e-404d-9220-4c06b5a3bed3)
+![UI](https://github.com/user-attachments/assets/97c72706-0789-4cc6-92c8-3f4563630d9f)
 
 ### 🛍️ Food Listing / UI
-![UI](https://github.com/user-attachments/assets/97c72706-0789-4cc6-92c8-3f4563630d9f)
+![Home](https://github.com/user-attachments/assets/76b7e5e9-2f8e-404d-9220-4c06b5a3bed3)
 
 ---
 
