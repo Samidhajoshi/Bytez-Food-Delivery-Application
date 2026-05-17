@@ -29,7 +29,7 @@ Stripe (Payments)
 - 🛒 Browse food items  
 - 📦 Add to cart & manage orders  
 - 💳 Secure online payments using Stripe  
-- 🔐 User authentication *(if implemented)*  
+- 🔐 User authentication   
 - 📱 Responsive UI  
 
 ---
